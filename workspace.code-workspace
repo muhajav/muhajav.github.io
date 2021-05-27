@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\gallery"
+		},
+		{
+			"path": "..\\..\\Desktop\\portofolio b3"
+		},
+		{
+			"path": "..\\..\\Desktop\\portfolio #2"
+		},
+		{
+			"path": "..\\..\\Desktop\\company profile"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEBLANDINGPAGE"
+	}
+}
